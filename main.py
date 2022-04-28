@@ -4,6 +4,6 @@ def main():
     print(f'321')
     print(f'b540c95616673f38635d4486080721da1f1050f1')
     print(f'b540c95616673f38635d4486080721da1f1050f1')
-    print(f'bruh')
+    print(f'bruh... sussy')
 if __name__ == '__main__':
     main()
